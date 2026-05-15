@@ -1,0 +1,13 @@
+{
+  "name": "dashboard-data-pipeline",
+  "version": "1.0.0",
+  "description": "CSV ingestion and aggregation pipeline for dashboard metrics.",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/cli.js data/events.csv",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

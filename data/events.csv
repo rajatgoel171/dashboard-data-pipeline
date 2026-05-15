@@ -1,0 +1,6 @@
+timestamp,event,userId,amount
+2026-04-01T10:00:00Z,signup,u_1,0
+2026-04-01T10:05:00Z,purchase,u_1,499
+2026-04-01T11:15:00Z,signup,u_2,0
+2026-04-02T09:20:00Z,purchase,u_2,1299
+2026-04-02T12:40:00Z,signup,u_3,0
